@@ -1,0 +1,23 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "@chilkat/ck-node14-macosx": "^9.50.88",
+    "axios": "^0.24.0",
+    "exceljs": "^4.3.0",
+    "get-ssl-certificate": "^2.3.3",
+    "node-fetch": "^3.1.0",
+    "nodejs-base64": "^2.0.0",
+    "puppeteer": "^11.0.0",
+    "ssl-checker": "^2.0.7",
+    "xlsx": "^0.17.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
